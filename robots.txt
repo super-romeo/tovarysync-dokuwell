@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tovarysync.dokuwell.com/sitemap.xml
+Sitemap: https://tovarysync.dokuline.com/sitemap.xml
